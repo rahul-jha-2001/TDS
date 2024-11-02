@@ -22,3 +22,16 @@ Wrote a script to scrape data from the above endpoints and implement a simple di
 Observation:
 
 A significant number of users ranking in the top 10 of the leadership metric are tech YouTubers.
+
+Top 5 used licenses are :'mit', 'apache-2.0', 'other', 'gpl-3.0', 'bsd-3-clause'
+
+Top 5 Languages as per the percentage of stars of the given language:
+Python 30.07680692007979
+JavaScript 12.97608172852855
+TypeScript 6.674465427564736
+Jupyter Notebook 5.498592494547082
+C# 4.640573441956712
+
+Creation of User and repos are mostly uniform across different time intervals except year as a large number of accounts have been created after 2020
+
+Recommendation:
